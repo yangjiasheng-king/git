@@ -7,7 +7,7 @@ A private Git repository.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/git.git
+git clone https://github.com/yangjiasheng-king/git.git
 cd git
 ```
 
